@@ -1,9 +1,6 @@
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 - 👋 Hi, I’m @hepimen
 - 👀 I’m interested in javascript and python
 
-![hepimen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hepimen&show_icons=true&theme=graywhite)
 
-<!---
-hepimen/hepimen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
